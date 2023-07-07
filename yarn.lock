@@ -65,37 +65,37 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@mux/mux-player-react@^1.11.3":
-  version "1.11.3"
-  resolved "https://registry.npmjs.org/@mux/mux-player-react/-/mux-player-react-1.11.3.tgz"
-  integrity sha512-303o20uCMpCbIthsdtlhv8E+Tq3NjVMh6Iee2cuP52I+Seesea8T/UyMNKHS7ptiBC5GIkkZf002A0hyXLW4Ig==
+"@mux/mux-player-react@1.11.3-canary.0-c45d462":
+  version "1.11.3-canary.0-c45d462"
+  resolved "https://registry.yarnpkg.com/@mux/mux-player-react/-/mux-player-react-1.11.3-canary.0-c45d462.tgz#47cba927cff113677ca2cad1b5c7f548ae3642df"
+  integrity sha512-m3uJ++OdiSYRv162rpfEdCpsJw4gllpQbFObljbReLFesXwhGxjegQ1oFXJzKqquuoYVPRPJmWHAO4zOsghWSg==
   dependencies:
-    "@mux/mux-player" "1.11.3"
-    "@mux/playback-core" "0.18.4"
+    "@mux/mux-player" "1.11.3-canary.0-c45d462"
+    "@mux/playback-core" "0.18.4-canary.0-c45d462"
     prop-types "^15.7.2"
 
-"@mux/mux-player@1.11.3":
-  version "1.11.3"
-  resolved "https://registry.npmjs.org/@mux/mux-player/-/mux-player-1.11.3.tgz"
-  integrity sha512-rDT8u0ua1wWfBDGacRiyuoIoy64T8X5QPjLU3V/zJVAsE1hHXfh8ol3NK+lBP9Wh9hptBTSX/SZhQwuDAH41uw==
+"@mux/mux-player@1.11.3-canary.0-c45d462":
+  version "1.11.3-canary.0-c45d462"
+  resolved "https://registry.yarnpkg.com/@mux/mux-player/-/mux-player-1.11.3-canary.0-c45d462.tgz#dd8b0e9fa9da326a56712403a0d3d42004b1bdbc"
+  integrity sha512-GubSYumhDgZ+PLY+/B0eBJ8QMOk+5U614GEt2Oq6SZd+xlcHIAdqZxhgkcgKyZN9F5/81Zgy5zSqKG2w88Bd7Q==
   dependencies:
-    "@mux/mux-video" "0.15.5"
-    "@mux/playback-core" "0.18.4"
+    "@mux/mux-video" "0.15.5-canary.0-c45d462"
+    "@mux/playback-core" "0.18.4-canary.0-c45d462"
     media-chrome "^1.1.3"
 
-"@mux/mux-video@0.15.5":
-  version "0.15.5"
-  resolved "https://registry.npmjs.org/@mux/mux-video/-/mux-video-0.15.5.tgz"
-  integrity sha512-RLcQ7E6rMwZPNDJS+k0Z08W5BFGVmrGdnnq4mPkFemhY2rFyXYHCy3gaGqEsgeOe99d80YS+K2ZvGiZBj9hkYA==
+"@mux/mux-video@0.15.5-canary.0-c45d462":
+  version "0.15.5-canary.0-c45d462"
+  resolved "https://registry.yarnpkg.com/@mux/mux-video/-/mux-video-0.15.5-canary.0-c45d462.tgz#e5942cc86e0505ac3bc4ad6485b6735d65f46afb"
+  integrity sha512-zLt022YTJjk3rNSBxPrWGzRJoSuaQY38AXEojy24Dfq9Rj4Ede8LekT727S9dMme3GAWGhvFvVX3PwjAjth8zg==
   dependencies:
-    "@mux/playback-core" "0.18.4"
+    "@mux/playback-core" "0.18.4-canary.0-c45d462"
     castable-video "0.5.2"
     custom-media-element "0.2.0"
 
-"@mux/playback-core@0.18.4":
-  version "0.18.4"
-  resolved "https://registry.npmjs.org/@mux/playback-core/-/playback-core-0.18.4.tgz"
-  integrity sha512-J9WnrP4bM2vwWbj0apT7cMmvrENNKmYg5abwXKaPeaHHdvYrNNrZ3oqzEMOybpyr7GoBq6HrnXtLgwQgqNt5Bg==
+"@mux/playback-core@0.18.4-canary.0-c45d462":
+  version "0.18.4-canary.0-c45d462"
+  resolved "https://registry.yarnpkg.com/@mux/playback-core/-/playback-core-0.18.4-canary.0-c45d462.tgz#f825f84532d74639b1e640fa49f34a2b3c3283b0"
+  integrity sha512-H5qoepR5kKjmBkSRXiYv+WT0Af+DsWFcgIOzNgM+/GR5x3hiIZel5LRrMGV6VgMVZu7JlEyeWtcpPZEZ1eYFOw==
   dependencies:
     hls.js "1.4.5"
     mux-embed "^4.24.0"

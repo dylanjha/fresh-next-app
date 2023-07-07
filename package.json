@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mux/mux-player-react": "^1.11.3",
+    "@mux/mux-player-react": "1.11.3-canary.0-c45d462",
     "next": "13.4.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
