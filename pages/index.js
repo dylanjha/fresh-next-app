@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         <MuxPlayer
           style={{width: '100%', maxWidth: '500px', margin: '20px auto'}}
-          playbackId="FuJSYrK0014ec2LPnm11bzC2MAySAQPqA"
+          playbackId="54C9Sybec1IHL6QuzQnjkHkWxi5ffjgx2TfxLMrw00zA"
           streamType="on-demand"
           muted
         />
